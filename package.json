@@ -14,7 +14,7 @@
     "github-fork-ribbon-css": "^0.2.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "reactime": "^2.0.0"
+    "reactime": "^2.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
