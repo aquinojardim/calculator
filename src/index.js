@@ -5,6 +5,5 @@ import App from "./component/App";
 import "./index.css";
 import "github-fork-ribbon-css/gh-fork-ribbon.css";
 
-const rootContainer = document.getElementById('root'); 
-ReactDOM.render(<App />, rootContainer); 
-// reactime(rootContainer);
+ReactDOM.render(<App />, document.getElementById("root"));
+// reactime(document.getElementById("root"));
